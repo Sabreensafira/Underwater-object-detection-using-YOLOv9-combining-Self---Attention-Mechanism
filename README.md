@@ -1,5 +1,5 @@
 # Underwater-object-detection-using-YOLOv9-combining-Self---Attention-Mechanism
-This project uses convolutional neural networks (CNNs) to classify diabetic retinopathy stages: mild, moderate, severe non-proliferative, and proliferative DR. CNNs excel in image analysis, capturing spatial patterns and anomalies. This approach ensures accurate detection, aiding early diagnosis and preventing vision loss effectively.
+Underwater Species Detection uses YOLOv9 with a self-attention mechanism to improve accuracy in detecting marine species. It focuses on critical features, ensuring precise results in low visibility and complex conditions, supporting marine research and conservation efforts.
 !nvidia-smi
  Op
  import os
